@@ -1,0 +1,52 @@
+
+.banner-section{
+    background-color: hsl(215, 19%, 82%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.banner-heading{
+    font-size: 60px;
+}
+
+.banner-heading3{
+    font-size: 1.5rem;
+}
+
+.banner-section img{
+    width: 200px;
+}
+
+.banner-section button {
+    background-color: #FFE484;
+    border: none;
+    outline: none;
+    padding: 7px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .banner-section a {
+    color: gray;
+    text-decoration: none;
+  }
+
+.banner-info{
+    width: 900px;
+    margin: auto;
+    text-align: center;
+}
+
+.banner-ins{
+    background-color: #7532FA !important;
+
+}
+
+
+
+.banner-installation-bottom{
+    width: 600px;
+}

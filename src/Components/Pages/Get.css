@@ -1,0 +1,39 @@
+.get-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 1100px;
+    margin: auto;
+    text-align: center;
+}
+
+.get-f-Btn{
+    background-color: #F0E9FF;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 20px 30px;
+}
+
+.get-f-Btn i{
+    font-size: 25px;
+    color:#7532FA ;
+}
+
+.get-section h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.get-section p{
+    font-size:20px;
+    margin-bottom: 20px;
+}
+
+.get-Btn{
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}

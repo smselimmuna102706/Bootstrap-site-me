@@ -1,0 +1,9 @@
+
+.guides-img img:hover{
+    transform: scale(1.1);
+}
+
+.guides-img img{
+    transition: .2s ease-in-out transform;
+    margin-bottom: 10px;
+}

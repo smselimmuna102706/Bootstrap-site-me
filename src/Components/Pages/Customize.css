@@ -1,0 +1,52 @@
+.customize-top{}
+.customize-top span i {
+    color: #7532fa;
+    font-weight: 600;
+    font-size: 51px;
+    margin-bottom: 21px;
+  }
+  .customize-top h1 {
+    font-size: 44px;
+    font-weight: 600;
+    margin-bottom: 17px;
+  }
+  .customize-top h5 {
+    font-size: 23px;
+    margin-bottom: 31px;
+  }
+.customize-top p{}
+.customize-top button {
+    color: #faf8ff;
+    padding: 10px;
+    outline: none;
+    border: none;
+    background: #7532fa;
+  }
+
+  .customize-bottom h3 {
+    font-size: 36px;
+  }
+  .customize-bottom p {
+    font-size: 16px;
+  }
+
+  .cust-bottom-info {
+    background-color: #F8F9FA;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  .cust-bottom-info span{
+    color: gray;
+  }
+  .cust-bottom-info span i {
+    color: #443c3c;
+    margin-left: 266px;
+  }
+  .cust-bottom-info p{
+    color: red;
+  }
+
+  .cust-bottom-info{
+    margin-bottom: 20px;
+  }

@@ -1,0 +1,25 @@
+
+.b-version{
+    margin-top: 10px;
+}
+
+.b-version p{
+    color: white;
+}
+
+.nav-background{
+    background-color: #7532FA;
+}
+
+.nav-icons {
+    margin-top: -8px;
+  }
+  .nav-li-a {
+    color: white;
+    text-decoration: none;
+    margin-right: 27px;
+  }
+
+  .i-img-color{
+      width: 81px;
+  }

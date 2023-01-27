@@ -1,0 +1,51 @@
+
+.Installation-left span i {
+    color: #7532fa;
+    font-size: 47px;
+  }
+  .Installation-left .Installation-right h3 {
+    font-size: 28px;
+    font-weight: 550;
+  }
+
+  .Installation-left button {
+    padding: 20px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 15px;
+    text-align: left;
+    font-size: 15px;
+    background-color: #F8F9FA;
+
+  }
+  .Installation-left .button1-i i {
+    text-align: right;
+    margin-left: 322px;
+    color: #7532fa;
+  }
+
+  .Installation-left .button2-i i {
+    text-align: right;
+    margin-left: 281px;
+    color: #7532fa;
+  }
+
+  .Installation-left .Installation-right p{
+    font-size: 15px;
+  }
+
+  .Installation-right span i{
+    color: #7532fa;
+    font-size: 47px;
+  }
+
+  .button1-i span{
+    color: gray;
+  }
+  .button2-i span{
+    color: gray;
+  }
+
+  
